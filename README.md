@@ -38,7 +38,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-<img src="memoRISE.gif" width=500><br>
+<img src="memoRISE.gif" width=800><br>
 
 
 ## Reflection Questions
