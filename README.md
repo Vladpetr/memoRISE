@@ -36,7 +36,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src="memoRISE.gif" width=250><br>
+
+
+<img src="memoRISE.gif" width=500><br>
 
 
 ## Reflection Questions
