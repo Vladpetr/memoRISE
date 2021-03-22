@@ -36,7 +36,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://github.com/Vladpetr/memoRISE/blob/main/memoRISE.gif
+<img src="memoRISE.gif" width=250><br>
 
 
 ## Reflection Questions
