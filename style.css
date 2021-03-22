@@ -1,0 +1,99 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #778899;
+  color: white; 
+}
+
+h1 {
+  color: #FAFAD2;
+  font-family: verdana, arial, sans-serif; 
+}
+
+button{
+  padding: 20px;
+  border-radius: 8px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+    background: pink;
+}
+#button2 {
+    background: lightyellow;
+}
+#button3 {
+    background: lightgreen;
+}
+#button4 {
+    background: lightblue;
+}
+#button5 {
+    background: sandybrown;
+}
+
+/* target the button1 element either when it is 
+active (the user is pressing it)  or when it has 
+the CSS class lit in its class list. */
+
+#button1:active, #button1.lit {
+    background:red;
+}
+#button2:active, #button2.lit {
+    background:yellow;
+}
+#button3:active, #button3.lit {
+    background:green;
+}
+#button4:active, #button4.lit {
+    background:blue;
+}
+#button5:active, #button5.lit {
+    background:saddlebrown;
+}
+
+
+.green-highlight {
+  text-shadow: 
+     3px 0px 3px green,
+    -3px 0px 3px green,
+     6px 0px 6px green,
+    -6px 0px 6px green;
+
+}
+
+.red-highlight {
+  text-shadow: 
+     3px 0px 3px red,
+    -3px 0px 3px red,
+     6px 0px 6px red,
+    -6px 0px 6px red;
+}
+
+.yellow-highlight {
+  text-shadow: 
+    -3px 0px 3px peachpuff,
+     3px 0px 3px peachpuff,
+     6px 0px 6px gold,
+    -6px 0px 6px peachpuff;
+}
+
+.centered {
+  text-align: center;
+}
+
+
+
